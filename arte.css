@@ -306,3 +306,7 @@ section:nth-of-type(even) {
     padding: 20px;
   }
 
+  .links{
+    text-align: center;
+    padding: 10px;
+  }
